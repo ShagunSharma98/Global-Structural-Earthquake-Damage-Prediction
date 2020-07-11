@@ -1,0 +1,25 @@
+Data for training can be found at: (Please refer to the .zip file of the dataset. The notebooks in the folder are not updated)
+https://drive.google.com/open?id=1lc5rCptwjqtSDAH-GzK71Y4aq_cKJy_p
+
+
+Missing Reading of Joints:
+ 
+NORTHRIDGE ACC X,Y (All g) - missing joint 179 data
+
+BAMU ACC X/Y(All g)(Both cases) - missing joint 333 data
+
+barkot acc X,Y (All g)(Both cases) - missing joint 333 data
+
+berl acc X,Y (All g)(Both cases) - missing joint 333 data
+
+chamoli ACC  X/Y (All g)(Both cases) - missing joint 333 data
+
+cherapunji ACC X/Y (All g)(Both cases) - missing joint 286 data
+
+ghansali acc X/Y (All g)(Both cases) - missing joint 179 data
+
+KOOMBER ACC X/Y (All g)(Both cases) - missing joint 286 data
+
+KANGRA ACC X/Y (All g)(Both cases) - missing joint 286 data
+
+SANFRANDOSE ACC X/Y(All g)(Both cases) - missing joint 286 data
